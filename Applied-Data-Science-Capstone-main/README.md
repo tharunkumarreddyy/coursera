@@ -47,4 +47,4 @@ You can refer to the following resources to learn more about the technologies an
 - [SpaceX Official Website](https://www.spacex.com/)
 - [Dash Documentation](https://dash.plotly.com/)
 - [Folium Documentation](https://python-visualization.github.io/folium/)
--[IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
+- IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
